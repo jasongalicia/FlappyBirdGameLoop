@@ -38,6 +38,7 @@ OR
 ```bash
 dist/FlappyBirdGame.jar
 ```
+*Note Make sure you run the FlappyBirdGame.jar file along side the, "lib" folder to use the MySQL Connector. The game will run but saving your score will not work.
 
 3. Get Ready to play and have fun!
 
