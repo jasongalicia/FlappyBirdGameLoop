@@ -42,7 +42,8 @@ dist/FlappyBirdGame.jar
 3. Get Ready to play and have fun!
 
 # Current Bugs or Issues
-- (March 19, 2020): None at the current moment. 
+- (March 23, 2020): Bug, where login feature to save score wasn't working and wouldn't save it into the database.
+Status: SOLVED.
 
 # Authors
 - Jason Anthony Galicia
